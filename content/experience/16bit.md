@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Software Engineer (LLM & Backend Infrastructure)"
 description: "16Bit | Toronto, Canada"
 dateString: Sep 2022 - June 2024
@@ -20,4 +20,4 @@ weight: 302
 - Actively engaged with potential customers as the lead developer, providing technical guidance and support to drive customer success.
 - Revamped the entire product codebase, improving reliability and readability while fixing numerous production bugs to ensure the smooth operation of the product on customer sites.
 
-![](/experience/16bit/img1.jpeg#center)
+![](/experience/16bit/img1.jpeg#center) -->

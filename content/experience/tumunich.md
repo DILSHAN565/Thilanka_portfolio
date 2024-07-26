@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Remote Research Intern"
 description: "Technical University of Munich (Germany)"
 dateString: Aug 2020 - Oct 2020
@@ -17,4 +17,4 @@ weight: 304
 - Developed a custom loss function combining CGAN loss and Dice Loss for improved image segmentation
 - Implemented the loss function to encourage the generator to eliminate structural deformation in the generated US scans
 - Leveraged remote access to TU-Munich's cluster computers for fast model training
-- Utilized TU-Munich's Discourse forum for collaboration which drove the project to fruition
+- Utilized TU-Munich's Discourse forum for collaboration which drove the project to fruition -->

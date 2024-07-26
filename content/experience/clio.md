@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Software Developer II (Backend Infrastructure)"
 description: "Clio | Toronto, Canada"
 dateString: June 2024 - Present
@@ -11,4 +11,4 @@ weight: 301
 ### Description
 Building scalable backend infrastructure to transform the legal experience for all
 
-![](/experience/clio/img1.png#center)
+![](/experience/clio/img1.png#center) -->

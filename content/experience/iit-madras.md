@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Computer Vision Intern"
 description: "IIT Madras (India)"
 dateString: May 2019 - July 2019
@@ -19,4 +19,4 @@ weight: 306
 
 ![](/experience/iit-madras/img1.jpeg)
 ![](/experience/iit-madras/img2.jpeg)
-![](/experience/iit-madras/img3.jpeg)
+![](/experience/iit-madras/img3.jpeg) -->

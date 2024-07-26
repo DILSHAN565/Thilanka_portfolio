@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Software Intern"
 description: "OriginHealth (Singapore)"
 dateString: March 2020 - Aug 2020
@@ -19,4 +19,4 @@ weight: 305
 
 ![](/experience/origin-health/img1.jpeg#center)
 ![](/experience/origin-health/img2.jpeg)
-![](/experience/origin-health/img3.jpeg)
+![](/experience/origin-health/img3.jpeg) -->

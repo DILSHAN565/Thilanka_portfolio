@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Backend Engineer"
 description: "BuyerAssist (India)"
 dateString: June 2021 - Aug 2022
@@ -16,4 +16,4 @@ weight: 303
 - Designed and implemented a configuration-driven framework to extend the pattern-matching capability of AWS EventBridge, preventing over 1000 false invocations of AWS Lambda functions every day.
 
 
-![](/experience/buyerassist/img1.jpeg#center)
+![](/experience/buyerassist/img1.jpeg#center) -->
