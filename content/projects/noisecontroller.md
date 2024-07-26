@@ -46,3 +46,10 @@ This project was a team effort, with contributions from Wenuranga Weerawardhana,
 - Practical application of IR communication in consumer electronics
 
 ---
+
+
+
+![](/projects/noise/se1.jpg)
+![](/projects/noise/se2.jpg)
+![](/projects/noise/se3.jpg)
+![](/projects/noise/se4.jpg)
