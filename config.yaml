@@ -1,6 +1,6 @@
-baseURL: "https://arkalim.netlify.app"
+baseURL: "https://main--thilanka-portfolio.netlify.app/"
 languageCode: en-us
-title: Abdur Rahman
+title: Thilanka 
 theme: PaperMod
 
 menu:
@@ -48,11 +48,11 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
+    title: "Thilanka Dilshan Herath"
+    subtitle:  Final-year undergraduate specialized in Electrical and Information Engineering,passionate about DevOps and TechOps engineering, cloud infrastructure and network engineering. Proficient in cutting-edge DevOps tools, eager to contribute to innovative teams, and dedicated to driving continuous improvement in industrial environments.
 
  
-    imageUrl: "home/casual-small-square.jpeg"
+    imageUrl: "home/Thilanka_Profile.jpg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -69,13 +69,13 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:herath.thilankadilshan@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "http://www.linkedin.com/in/thilanka-dilshan-herath-5460001a7"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/DILSHAN565"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/c/AbdurRahmanKalim"
 
   # text search
   fuseOpts:
