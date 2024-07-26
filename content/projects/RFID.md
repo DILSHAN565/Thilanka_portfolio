@@ -46,7 +46,12 @@ Special thanks to my team members, Wishnaka Dsanayaka and Chalithya Gunathilaka,
 
 ---
 
+
+![](/projects/rfid-door-lock-system/rf1.jpg)
+![](/projects/rfid-door-lock-system/rf2.jpg)
+![](/projects/rfid-door-lock-system/rf3.jpg)
+
 ### Additional Resources
 
 - 🔗 [Project Documentation](#) <!-- Insert a link to any relevant documentation or presentation if available -->
-- 🔗 [Blog Post](../../blog/rfid-door-lock-system) <!-- Update the path to your blog post if available -->
+- 🔗 [Blog Post](../../blog/rfid-door-lock-system) Update the path to your blog post if available
